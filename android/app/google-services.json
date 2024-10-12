@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208337442046",
+    "project_id": "abmdistribution-57f25",
+    "storage_bucket": "abmdistribution-57f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208337442046:android:05af88e503af819ada41af",
+        "android_client_info": {
+          "package_name": "com.example.u_abm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrEaBKmo49wNwZniVgHg1NK42zYg7C00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
